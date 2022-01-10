@@ -15,3 +15,4 @@
 ### Screenshots
 
 ![Matching Game Screenshot](MatchingGame.png)
+![Screenshot of Layout](SAF-Preview.png)
