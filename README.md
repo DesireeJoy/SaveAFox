@@ -1,6 +1,3 @@
-
-![Two Cartoon Foxes from the Save A Fox books](/src/images/TitleImage.png#titleImg)
-
 # Live Version
 [Live Site](https://desireejoy.github.io/SaveAFox-temp/)
 
@@ -13,5 +10,8 @@
 - Used vanillaJS as well as REACT state variables to create a memory style matching game.
 - Utilized React-Awesome-Reveal library for onScroll Animation to create a dynamic user experience.
 
-<IMG SRC='https://github.com/DesireeJoy/SaveAFox/blob/master/src/images/FoxHead2.png' alt='Finnegan Fox Head' style='height:30%; width:30%'/>
+<IMG SRC='https://github.com/DesireeJoy/SaveAFox/blob/master/src/images/FoxHead2.png' alt='Finnegan Fox Head' style='height:20%; width:20%'/>
 
+### Screenshots
+
+![Matching Game Screenshot](MatchingGame.png)
